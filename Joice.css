@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://i.pinimg.com/564x/f0/fc/23/f0fc23d9a2042fbc8abc4c7e01bc323f.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+   
+ color: rgb(0, 75, 19);
+
+}
+
+pre {
+
+color:rgb(0, 75, 19);
+font-size: larger;
+
+}
+
+form {
+   width: 900px; 
+   padding: 50px;
+   position: center;
+   background-color: rgb(229, 252, 255);
+}
+
+
+
+input [Type= 'text']{
+    position: absolute;
+    left: 180px;
+    width: 400px;
+    border-radius: 5px;
+}
